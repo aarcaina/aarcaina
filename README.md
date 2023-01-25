@@ -21,7 +21,7 @@
 - Personal Email: dtandre331@gmail.com;
 - Linked-In: https://www.linkedin.com/in/andre-arcaina-14015b223/;
 
-### Drawing? Graphic DESIGN 👻 ###
+### misc. Drawing? Graphic DESIGN 👻 ###
 - I love making pixel art, but unfortunately, I am not really good at it.; 😔
 - Here's some of my work!; 🎨
 
