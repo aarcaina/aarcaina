@@ -18,5 +18,9 @@
 - Linked-In: https://www.linkedin.com/in/andre-arcaina-14015b223/;
 
 ### Drawing? Graphic DESIGN 👻 ###
-- I love making pixel art, but unfortunately, I am not really good at it. 😔
-- Here's some of my work! 🎨
+- I love making pixel art, but unfortunately, I am not really good at it.; 😔
+- Here's some of my work!; 🎨
+
+![c1](https://user-images.githubusercontent.com/96299635/214715766-2d6ae7ae-4754-4f5f-984e-fb54ede02fa6.PNG)
+![c2](https://user-images.githubusercontent.com/96299635/214715752-7547f592-6417-4053-8260-2e893146a25d.png)
+![c3](https://user-images.githubusercontent.com/96299635/214715806-c27a82aa-b2cd-4bed-a14a-5c15e59f1cdc.png)
