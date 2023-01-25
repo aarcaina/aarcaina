@@ -10,9 +10,11 @@
 - Playing Video Games; 🤭
 
 ### What am I doing right now? 😮 ###
-- 🔭 W.I.P.: Pokemon game using the programming language Python and the library pygame;
-- 🌱 LEARN : more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
-- 🤔 PLAN  : to take courses to learn how to utilize HTML, CSS, JS and C++;
+- 🔭 W.I.P. Pokemon game using the programming language Python and the library pygame;
+- 🌱 LEARN-ing more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
+- 🤔 PLAN-ning to improve and consolidate in front-end development such as: HTML, CSS, JS;
+- 🤯 FUTURE preparing C++, UNIX, Assembly;
+- 💹 INTERN Feel free to contact me below if you're interested in hiring me!;
 
 ### Where can you find me 🧐🧐: ###
 - Personal Email: dtandre331@gmail.com;
