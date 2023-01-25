@@ -14,6 +14,6 @@
 - 🤔 I’m planning to take courses to learn how to utilize HTML, CSS, JS and C++;
 
 ### Where can you find me 🧐🧐: ###
-- Personal Email: dtandre331@gmail.com ;
-- Linked-In: https://www.linkedin.com/in/andre-arcaina-14015b223/ ;
+- Personal Email: dtandre331@gmail.com;
+- Linked-In: https://www.linkedin.com/in/andre-arcaina-14015b223/;
 
