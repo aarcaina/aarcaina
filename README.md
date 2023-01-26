@@ -9,7 +9,7 @@
 - Watching Anime; 📺
 - Playing Video Games; 🤭
 
-### The Journey Past/Current/Future! 😮 ###
+### The Journey: Past && Current && Future! 😮 ###
 - 💤 GITHUB Check out some of my past projects below this readme (SOON: website)!;
 - 🔭 W.I.P. Pokemon game using the programming language Python and the library pygame;
 - 🌱 LEARN-ing more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
