@@ -12,6 +12,7 @@
 ### The Journey: Past && Current && Future! 😮 ###
 - 💤 GITHUB Check out some of my past projects below this readme (SOON: website)!;
 - 🔭 W.I.P. Pokemon game using the programming language Python and the library pygame;
+- ⏱️ LATELY using discord's API alongside python to make a working gambling bot; 
 - 🌱 LEARN-ing more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
 - 🤔 PLAN-ning to improve and consolidate knowledge in front end development such as: HTML, CSS, JS;
 - 🤯 FUTURE preparing C++, UNIX, Assembly;
