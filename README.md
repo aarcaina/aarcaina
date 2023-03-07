@@ -15,7 +15,7 @@
 - ⏱️ LATELY using discord's API alongside python to make a working gambling bot; 
 - 🌱 LEARN-ing more advanced concepts in Java, such as classes, inheritance, sorting algorithms;
 - 🤔 PLAN-ning to improve and consolidate knowledge in front end development such as: HTML, CSS, JS;
-- 🤯 FUTURE preparing C++, UNIX, ARC Assembly;
+- 🤯 FUTURE preparing C++, SQL, Go/Rust;
 - 💹 INTERN Feel free to contact me below if you're interested in recruiting me!;
 
 ### Where can you find me 🧐🧐: ###
