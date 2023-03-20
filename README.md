@@ -13,7 +13,7 @@
 - 💤 GITHUB Check out some of my past projects below this readme (SOON: website)!;
 - 🔭 W.I.P. Program that takes in data from a student-made survey and displays it on a GUI!;
 - 🌱 LEARN-ing more advanced concepts in Java and C++ such as classes, inheritance, sorting algorithms;
-- 🤔 CURRENT-ly improving and consolidating my knowledge in front end development to improve my website;
+- 🤔 CURRENT-ly improving and consolidating my knowledge in HTML/CSS/JS to improve my website;
 - 💹 INTERN Feel free to contact me below if you're interested in recruiting me!;
 
 ### Where can you find me 🧐🧐: ###
