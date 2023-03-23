@@ -10,7 +10,7 @@
 - Playing Video Games; 🤭
 
 ### The Journey: Past && Current && Future! 😮 ###
-- 💤 GITHUB Check out some of my past projects below this readme () => [Portfolio](https://andrearcaina.github.io/)!;
+- 💤 GITHUB Check out some of my past projects below this readme () => [soon]!;
 - 🔭 W.I.P. Program that takes in data from a student-made survey and displays it on a GUI!;
 - 🤔 CURRENT-ly improving and consolidating my knowledge in HTML/CSS/JS | Represented in => [Re-2048](https://andrearcaina.github.io/Re-2048/);
 - 🌱 LEARN-ing more advanced concepts in Java and C++ such as classes, inheritance, sorting algorithms;
