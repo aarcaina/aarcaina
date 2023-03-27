@@ -11,7 +11,7 @@
 
 ### The Journey: Past && Current && Future! 😮 ###
 - 💤 GITHUB Check out some of my past projects below this readme or my website () => [Portfolio](https://andrearcaina.github.io)!;
-- 🔭 W.I.P. Program that takes in data from a student-made survey and displays it on a GUI!;
+- 🔭 LATE-ly coding a program that takes in data from a student-made survey and displays it on a GUI!;
 - 🤔 CURRENT-ly improving and consolidating my knowledge in HTML/CSS/JS () => [Re-Tic-Tac-Toe](https://andrearcaina.github.io/Re-Tic-Tac-Toe/);
 - 🌱 LEARN-ing more advanced concepts in Java and C++ such as classes, inheritance, sorting algorithms;
 - 💹 INTERN Feel free to contact me below if you're interested in recruiting me!;
