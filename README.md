@@ -18,4 +18,4 @@
 
 ### Where can you find me 🧐🧐: ###
 - Personal Email: dtandre331@gmail.com; 📩
-- LinkedIn: https://www.linkedin.com/in/andre-arcaina-14015b223/; 🔗
+- LinkedIn: https://www.linkedin.com/in/andre-arcaina/; 🔗
