@@ -1,5 +1,5 @@
-# Scythe Arcanine joins the party 👋🔥
-**My name is Andre Arcaina, who is currently a first year Computer Science student 👨‍💻 at Toronto's Metropolitan University (Formerly known as Ryerson University)! I am very fascinated in coding and am extremely driven in improving my knowledge in the subject. I am also extremely motivated to make projects, notably classic video games!;** 
+# a wild arcanine appears! 🐕🔥
+**Heyo! My name is Andre Arcaina, who is currently a first year Computer Science student 👨‍💻 at Toronto's Metropolitan University (Formerly known as Ryerson University)! I am very fascinated in coding and am extremely driven in improving my knowledge in the subject. I am also extremely motivated to make projects, notably classic video games!;** 
 
 ### Hobbies 🤩 ###
 - Swimming; 🏊‍♂️ (used to be part of MAC, LCM)
