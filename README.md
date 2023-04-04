@@ -11,7 +11,7 @@
 
 ### The Journey: Past && Current && Future! 😮 ###
 - 💤 GITHUB Check out some of my past projects and my website () => [Portfolio](https://andrearcaina.github.io)!;
-- 🔭 LATELY coding an asteroids game in C++ and displays it on a GUI!;
+- 🔭 LATELY coding a GUI in C++ that allows the user to choose between many classic video games!
 - 🤔 CURRENTLY improving and consolidating my knowledge in HTML/CSS/JS () => [Re-Tic-Tac-Toe](https://andrearcaina.github.io/Re-Tic-Tac-Toe/);
 - 🌱 LEARNING more advanced concepts in Java such as classes, inheritance, sorting algorithms;
 - 💹 INTERNSHIP ? Feel free to contact me below if you're interested in recruiting me!;
