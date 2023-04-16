@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andre Arcaina</h1>
+<h1 align="left">a wild arcanine appears! 🐕🔥</h1>
 <h3 align="justify">Heyo! My name is Andre Arcaina, who is currently a first year Computer Science student 👨‍💻 at Toronto's Metropolitan University (Formerly known as Ryerson University)! I am very fascinated in coding and am extremely driven in improving my knowledge in the subject. I am also extremely motivated to make projects, notably classic video games!</h3>
 
 - 🔭 I’m currently working on [my own personal website!](https://andrearcaina.github.io/)
