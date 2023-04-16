@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dtandre331@gmail.com**
 
-- 📄 Know about my experiences [https://andrearcaina.github.io/resumes/Resume_4.pdf](https://andrearcaina.github.io/resumes/Resume_4.pdf)
+- 📄 Know about my experiences [Resume](https://andrearcaina.github.io/resumes/Resume_4.pdf)
 
 - ⚡ Fun fact : **i love netflix**
 
