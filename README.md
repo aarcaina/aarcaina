@@ -159,4 +159,4 @@
       </a>
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrearcaina&show_icons=true&locale=en&layout=compact" alt="andrearcaina" />                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrearcaina&" alt="andrearcaina" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrearcaina&show_icons=true&locale=en&layout=compact" alt="andrearcaina" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrearcaina&" alt="andrearcaina" /></p>
