@@ -1,17 +1,17 @@
 <h1 align="left">a wild arcanine appears! 🐕🔥</h1>
 <h3 align="justify">Heyo! My name is Andre Arcaina, a first year Computer Science student 👨‍💻 at Toronto's Metropolitan University (Formerly known as Ryerson University)! I am very fascinated in coding and am extremely driven in improving my knowledge in the subject. I am also interested in concepts such as Game Development, DevOps, AI and Machine Learning!</h3>
 
-- 🔭 I’m currently working on [**an ETH predictor**](https://github.com/andrearcaina/eth-predictor)
+- 🔭 I’m currently working on [**an ETH predictor**](https://github.com/andrearcaina/eth-predictor) using **ML**
 
-- 🌱 I’m currently learning **Unity, C#, React.js, Keras, Sci-kit Learn**
+- 🌱 I’m currently learning  **Unity, C#, React.js, Keras, Sci-kit Learn**
 
-- 👨‍💻 Check me out here 👉 [**personal website**](https://andrearcaina.github.io/)
+- 👨‍💻 Check me out here on my [**personal website**](https://andrearcaina.github.io/)
 
-- 📫 How to reach me **dtandre331@gmail.com**
+- 📫 Reach out to me with **dtandre331@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://andrearcaina.github.io/resumes/Resume_4.pdf)
+- 📄 Know about my past experiences in my [**resume**](https://andrearcaina.github.io/resumes/Resume_4.pdf)
 
-- ⚡ Some of my hobbies => **watching netflix counts, right?**
+- ⚡ I love **watching netflix on my free time**
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
