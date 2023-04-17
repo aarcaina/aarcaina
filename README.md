@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [**Resume**](https://andrearcaina.github.io/resumes/Resume_4.pdf)
 
-- ⚡ Some of my hobbies **watching netflix counts, right?**
+- ⚡ Some of my hobbies => **watching netflix counts, right?**
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
