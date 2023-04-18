@@ -184,4 +184,6 @@
         />
       </a>
     </p>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrearcaina&show_icons=true&locale=en&layout=compact" alt="andrearcaina" />
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrearcaina&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="andrearcaina" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
+| ------------- | ------------- | ------------- |
