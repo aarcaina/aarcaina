@@ -1,7 +1,7 @@
 <h1 align="left">a wild arcanine appears! 🐕🔥</h1>
 <h3 align="justify">Hello! My name is Andre Arcaina, a first year Computer Science student 👨‍💻 at Toronto Metropolitan University (TMU), formerly known as Ryerson University 🏫. I am very fascinated in coding and am extremely driven in improving my knowledge and craft in the subject. I am also interested in various concepts such as Game Development 🕹️, DevOps ♾️, AI & Machine Learning 🤖!</h3>
 
-- 🔭 I’m currently working on [**an ETH predictor**](https://github.com/andrearcaina/eth-predictor) using **ML**
+- 🔭 I’m currently working on [**a stock price predictor**](https://github.com/andrearcaina/eth-predictor) using **ML**
 
 - 🌱 I’m currently learning  **Unity, C#, React.js, Keras, Sci-kit Learn**
 
