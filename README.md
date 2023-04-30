@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: 
     - a [**stock price predictor**](https://github.com/andrearcaina/eth-predictor) using **Keras**, **Sci-Kit Learn** and **Flask**
-    - a [**scrapbook website**](https://github.com/andrearcaina/Scrapbook) with my and all my friends using **React** and **JavaScript**
+    - a [**scrapbook website**](https://github.com/andrearcaina/Scrapbook) with all my friends and I using **React** and **JavaScript**
     - and a roguelike shoot 'em up [**game**](https://github.com/andrearcaina/Hells-Gate) using **Unity** and **C#**  
 
 - 🌱 I’m currently learning  **Unity, C#, React.js, Keras, Sci-kit Learn**
