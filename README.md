@@ -14,7 +14,7 @@
 
 - 📄 Know about my past experiences in my [**resume**](https://andrearcaina.github.io/resumes/Resume_5.pdf)
 
-- ⚡ I love **watching netflix on my free time**
+- ⚡ I am an **avid nba fan and read sports media**
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
