@@ -60,7 +60,7 @@
       /></a>
     </p>
 
-<h3 align="left">languages and technical skills 🤖</h3>
+<h3 align="left">known languages 🧑‍💻</h3>
     <p align="left">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -134,6 +134,9 @@
           height="40"
         />
       </a>
+    </p>
+    <h3 align="left">and technical skills 🤖</h3>
+    <p align="left">
       <a
         href="https://streamlit.io/"
         target="_blank"
