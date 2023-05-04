@@ -12,7 +12,7 @@
 
 - 📫 Reach out to me with **dtandre331@gmail.com**
 
-- 📄 Know about my past experiences in my [**resume**](https://andrearcaina.github.io/resumes/Resume_6.pdf)
+- 📄 Know about my past experiences in my [**resume**](https://andrearcaina.github.io/resumes/Resume_7.pdf)
 
 - ⚡ I am an **avid nba fan and read sports media**
 
