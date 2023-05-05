@@ -14,7 +14,7 @@
 
 - 📄 Know about my past experiences in my [**resume**](https://andrearcaina.github.io/resumes/Resume_7.pdf)
 
-- ⚡ I am an **avid nba fan and read sports media**
+- ⚡ I also like **to play games, watch sports, and read**
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
