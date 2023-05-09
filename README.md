@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning  **Unity, C#, React.js, Keras, Sci-kit Learn**
 
-- 👨‍💻 Check me out here on my [**personal website**](https://andrearcaina.github.io/)
+- 👨‍💻 Check me out here on my [*personal site*](https://andrearcaina.github.io/)
 
-- 📫 Reach out to me with **dtandre331@gmail.com**
+- 📫 Reach out to me with dtandre331@gmail.com
 
 - 📄 Know more about me in my [**resume**](https://andrearcaina.github.io/resumes/Resume_7.pdf)
 
