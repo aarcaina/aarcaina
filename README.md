@@ -12,7 +12,7 @@
 
 - 📫 Reach out to me with dtandre331@gmail.com
 
-- 📄 Know more about me in my [**resume**](https://andrearcaina.github.io/resumes/Resume_7.pdf)
+- 📄 Know more about me in my [**resume**](https://andrearcaina.github.io/resumes/Resume_8.pdf)
 
 - ⚡ I also like **to play games, watch sports, and read**
 
