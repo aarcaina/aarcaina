@@ -6,7 +6,7 @@
     - a [***scrapbook website***](https://github.com/andrearcaina/Scrapbook) with all my friends and I using **React** and **JavaScript**
     - and a roguelike shoot 'em up [***game***](https://github.com/andrearcaina/Hells-Gate) using **Unity** and **C#**  
 
-- 🌱 I’m currently learning  **Unity, C#, React.js, React-Native, Firebase
+- 🌱 I’m currently learning  **Unity, C#, React.js, React-Native, Firebase**
 
 - 👨‍💻 Check me out here on my [*personal site*](https://andrearcaina.github.io/)
 
