@@ -1,20 +1,18 @@
 <h1 align="left">a wild arcanine appears! 🐕🔥</h1>
-<h3 align="justify">Hello 👋! My name is Andre Arcaina, a first year Computer Science student 👨‍💻 at Toronto Metropolitan University (TMU), formerly known as Ryerson University 🏫. I am very fascinated in coding and am extremely driven in improving my knowledge and craft in the subject. I am also interested in various concepts such as Web 🖥️ & Game Development 🕹️, DevOps ♾️, AI & Machine Learning 🤖!</h3>
+<h3 align="justify">Hello 👋! My name is Andre Arcaina, a second year Computer Science Co-op student 👨‍💻 at Toronto Metropolitan University (TMU), formerly known as Ryerson University 🏫. I am very fascinated in coding and am extremely driven in improving my knowledge and craft in the subject. I am also interested in various concepts such as Web 🖥️ & Game Development 🕹️, DevOps ♾️, AI & Machine Learning 🤖!</h3>
 
-- 🔭 I’m currently working on: 
-    - a [***mobile app***](https://github.com/andrearcaina/myFootprint) that calculates your CO2 Footprint using **React Native** and **Firebase**
-    - a [***scrapbook website***](https://github.com/andrearcaina/Scrapbook) with all my friends and I using **React** and **JavaScript**
-    - and a roguelike shoot 'em up [***game***](https://github.com/andrearcaina/Hells-Gate) using **Unity** and **C#**  
+- 🔭 Indefinitely working on: 
+    - a [*mobile app*](https://github.com/andrearcaina/myFootprint), personal [*scrapbook website*](https://github.com/andrearcaina/Scrapbook), and a [*game*](https://github.com/andrearcaina/Hells-Gate) 
 
-- 🌱 I’m currently learning  **Unity, C#, React.js, React-Native, Firebase**
+- 🌱 Currently exploring the intricacies of **Unity, React, and Firebase**
 
-- 👨‍💻 Check me out here on my [*personal site*](https://andrearcaina.github.io/)
+- 👨‍💻 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
 
-- 📫 Reach out to me with dtandre331@gmail.com
+- 📫 Reach out! 👉👉👉 dtandre331@gmail.com
 
-- 📄 Know more about me in my [**resume**](https://andrearcaina.github.io/resumes/Resume_9.pdf)
+- 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_9.pdf) ... whoops! how'd that get there 🤔
 
-- ⚡ I also like **to play games, watch sports, and read**
+- ⚡ I like taking walks, playing sports and video games! 
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
