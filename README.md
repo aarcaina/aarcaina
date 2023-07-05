@@ -10,7 +10,7 @@
 
 - 📫 Reach out! 👉👉👉 dtandre331@gmail.com
 
-- 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_9.pdf) ... whoops! how'd that get there 🤔
+- 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_10.pdf) ... whoops! how'd that get there 🤔
 
 - ⚡ I like taking walks, playing sports and video games! 
 
