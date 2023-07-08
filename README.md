@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
 
-- 📫 Reach out! 👉👉👉 dtandre331@gmail.com
+- 📫 Contact me 👉👉👉 dtandre331@gmail.com
 
 - 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_10.pdf) ... whoops! how'd that get there 🤔
 
