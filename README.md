@@ -12,7 +12,7 @@
 
 - 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_10.pdf) ... whoops! how'd that get there 🤔
 
-- ⚡ I like taking walks, playing sports and video games! 
+- ⚡ On my free time: I like sleeping, playing sports and video games!
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
