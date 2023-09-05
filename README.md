@@ -2,7 +2,8 @@
 <h3 align="justify">Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at Toronto Metropolitan University (TMU), formerly known as Ryerson University. I am very fascinated in coding and am extremely driven in improving my knowledge and craft in the subject. I am also interested in various concepts such as Web & Game Development, DevOps, AI & Machine Learning!</h3>
 
 - 🔭 Indefinitely working on: 
-    - a [*mobile app*](https://github.com/andrearcaina/myFootprint) and a [*game*](https://github.com/andrearcaina/Hells-Gate) 
+    - a [*mobile app*](https://github.com/andrearcaina/myFootprint) and a [*game*](https://github.com/andrearcaina/Hells-Gate)
+    - school 😮‍💨
 
 - 🌱 Currently exploring the intricacies of **Unity, React, and Firebase**
 
