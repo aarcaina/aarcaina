@@ -233,5 +233,4 @@ Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at
       </a>
     </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" />
