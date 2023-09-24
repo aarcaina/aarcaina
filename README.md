@@ -11,7 +11,7 @@ Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at
 
 - 📫 Contact me 👉👉👉 dtandre331@gmail.com
 
-- 📄 [**resume**](https://andrearcaina.github.io/resumes/Resume_10.pdf) ... whoops! how'd that get there 🤔
+- 📄 [**resume**](https://andrearcaina.github.io/resumes/Andre_Arcaina_Resume.pdf) ... whoops! how'd that get there 🤔
 
 - ⚡ On my free time: I like sleeping, playing sports and video games!
 
