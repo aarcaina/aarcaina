@@ -1,9 +1,11 @@
 <h1>a wild arcanine appears! 🐕🔥</h1>
-Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at Toronto Metropolitan University (TMU), formerly known as Ryerson University. I am very fascinated in coding and am extremely driven in improving my knowledge and craft in the subject. I am interested in various concepts such as Web & Game Development, DevOps, AI & Machine Learning!
+<p>Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at Toronto Metropolitan University.</p>
+
+Here are some things to know about me :D
 
 - 🔭 Indefinitely working on: 
     - a [*mobile app*](https://github.com/andrearcaina/myFootprint) and a [*game*](https://github.com/andrearcaina/Hells-Gate)
-    - school 😮‍💨
+    - school work 😮‍💨
 
 - 🌱 Currently exploring the intricacies of **Unity, React, and Firebase**
 
@@ -13,7 +15,7 @@ Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at
 
 - 📄 [**resume**](https://andrearcaina.github.io/resumes/Andre_Arcaina_Resume.pdf) ... whoops! how'd that get there 🤔
 
-- ⚡ On my free time: I like sleeping, playing sports and video games!
+- ⚡ On my free time: I like sleeping and binge-watching shows
 
 <h3 align="left">find me elsewhere on the web 👇</h3>
     <p align="left">
