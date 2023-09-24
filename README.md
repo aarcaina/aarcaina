@@ -234,5 +234,3 @@ Here are some things to know about me :D
                height="40"/> 
       </a>
     </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" />
