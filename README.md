@@ -1,5 +1,5 @@
 <h1>a wild arcanine appears! 🐕🔥</h1>
-<p>Hello! My name is Andre Arcaina, a second year Computer Science Co-op student at Toronto Metropolitan University.</p>
+<p>Hello! My name is Andre Arcaina, a second year computer science co-op student at Toronto Metropolitan University.</p>
 
 Here are some things to know about me :D
 
