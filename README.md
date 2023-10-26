@@ -3,8 +3,9 @@
 
 Here are some things to know about me :D
 
-- 🔭 Indefinitely working on: 
-    - a [*mobile app*](https://github.com/andrearcaina/myFootprint) and a [*game*](https://github.com/andrearcaina/Hells-Gate)
+- 🔭 Indefinitely working on:
+    - a [*crypto app*](https://github.com/andrearcaina/CoinWatch)
+    - a [*mobile app*](https://github.com/andrearcaina/myFootprint)
     - school work 😮‍💨
 
 - 🌱 Currently exploring the intricacies of **Unity, React, and Firebase**
