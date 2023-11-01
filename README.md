@@ -93,13 +93,13 @@ Here are some things to know about me :D
         />
       </a>
       <a
-        href="https://www.w3schools.com/cpp/"
+        href="https://www.w3schools.com/c/"
         target="_blank"
         rel="noreferrer"
       >
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          alt="cplusplus"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+          alt="c"
           width="40"
           height="40"
         />
@@ -158,6 +158,14 @@ Here are some things to know about me :D
           height="40"
         />
       </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+          alt="tailwindcss"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -184,45 +192,6 @@ Here are some things to know about me :D
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
           alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-          alt="pandas"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-          alt="seaborn"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://avatars.githubusercontent.com/u/215947?s=280&v=4"
-          alt="matplotlib"
-          width="40"
-          height="40"
-        />
-      </a> 
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" 
-               alt="opencv" 
-               width="40" 
-               height="40"/> 
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-          alt="scikit_learn"
           width="40"
           height="40"
         />
