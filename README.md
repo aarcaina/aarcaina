@@ -8,7 +8,7 @@ Here are some things to know about me :D
     - a [*mobile app*](https://github.com/andrearcaina/myFootprint)
     - school work 😮‍💨
 
-- 🌱 Currently exploring the intricacies of **Unity, React, and Firebase**
+- 🌱 Currently exploring the intricacies of **React, TailwindCSS, and Firebase**
 
 - 👨‍💻 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
 
