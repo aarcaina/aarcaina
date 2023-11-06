@@ -44,14 +44,6 @@ Here are some things to know about me :D
           height="30"
           width="40"
       /></a>
-      <a href="https://www.kaggle.com/andrearcaina" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-          alt="azdrx"
-          height="30"
-          width="40"
-      /></a>
       <a href="https://devpost.com/andrearcaina" target="blank"
         ><img
           align="center"
@@ -147,24 +139,12 @@ Here are some things to know about me :D
     <h3 align="left">and technical skills 🤖</h3>
     <p align="left">
       <a
-        href="https://streamlit.io/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
-          alt="flask"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
         href="https://flask.palletsprojects.com/"
         target="_blank"
         rel="noreferrer"
       >
         <img
-          src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
           alt="flask"
           width="40"
           height="40"
@@ -193,13 +173,20 @@ Here are some things to know about me :D
                width="40" 
                height="40"/>           
       </a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
           <img 
-               src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" 
-               alt="sqlite"
+               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" 
+               alt="nodejs"
                width="40" 
                height="40"/> 
-      </a> 
+      </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img 
+               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" 
+               alt="git"
+               width="40" 
+               height="40"/> 
+      </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -208,11 +195,16 @@ Here are some things to know about me :D
           height="40"
         />
       </a>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
-               alt="unity"
-               width="40" 
-               height="40"/> 
+        <a
+        href="https://streamlit.io/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
+          alt="streamlit"
+          width="40"
+          height="40"
+        />
       </a>
     </p>
