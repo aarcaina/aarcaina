@@ -138,6 +138,7 @@ Here are some things to know about me :D
     </p>
     
 **and technical skills** 🤖
+<div>
     <p align="left">
       <a
         href="https://flask.palletsprojects.com/"
@@ -209,3 +210,4 @@ Here are some things to know about me :D
         />
       </a>
     </p>
+</div>
