@@ -18,7 +18,7 @@ Here are some things to know about me :D
 
 - ⚡ On my free time: I like sleeping and binge-watching shows
 
-<h3 align="left">find me elsewhere on the web 👇</h3>
+**find me elsewhere on the web** 👇
     <p align="left">
       <a href="https://linkedin.com/in/andre-arcaina" target="blank"
         ><img
@@ -54,7 +54,7 @@ Here are some things to know about me :D
       /></a>
     </p>
 
-<h3 align="left">known languages 🧑‍💻</h3>
+**known languages** 🧑‍💻
     <p align="left">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -136,7 +136,8 @@ Here are some things to know about me :D
         />
       </a>
     </p>
-    <h3 align="left">and technical skills 🤖</h3>
+    
+**and technical skills** 🤖
     <p align="left">
       <a
         href="https://flask.palletsprojects.com/"
