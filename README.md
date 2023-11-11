@@ -5,6 +5,7 @@ Here are some things to know about me :D
 
 - 🔭 Indefinitely working on:
     - a [*crypto app*](https://github.com/andrearcaina/CoinWatch)
+    - my portfolio 😭
     - school work 😮‍💨
 
 - 🌱 Currently exploring the intricacies of **React, TailwindCSS, and Firebase**
