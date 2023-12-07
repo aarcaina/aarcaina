@@ -189,6 +189,19 @@ Here are some things to know about me :D
                width="40" 
                height="40"/> 
       </a>
+         </a>
+        <a
+        href="https://www.gnu.org/software/bash/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"
+          alt="bash"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -196,18 +209,5 @@ Here are some things to know about me :D
           width="40"
           height="40"
         />
-      </a>
-        <a
-        href="https://streamlit.io/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
-          alt="streamlit"
-          width="40"
-          height="40"
-        />
-      </a>
     </p>
 </div>
