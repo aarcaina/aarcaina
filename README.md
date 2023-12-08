@@ -10,7 +10,9 @@ Here are some things to know about me :D
 
 - 🌱 Currently exploring the intricacies of **React, TailwindCSS, and Firebase**
 
-- 👨‍💻 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
+- 💬 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
+
+- 👨‍💻 check out my [gists](https://gist.github.com/andrearcaina)! (this is kinda cool) 
 
 - 📫 Contact me 👉👉👉 dtandre331@gmail.com
 
