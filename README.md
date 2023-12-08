@@ -1,5 +1,4 @@
-<h1>a wild arcanine appears! 🐕🔥</h1>
-<p>Hello! My name is Andre Arcaina, a second year computer science co-op student at Toronto Metropolitan University.</p>
+<h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ LoL malder 😤, 🎯 fortnite gamer 🤪</h2>
 
 Here are some things to know about me :D
 
@@ -18,7 +17,7 @@ Here are some things to know about me :D
 
 - 📄 [**resume**](https://andrearcaina.github.io/resumes/Andre_Arcaina_Resume.pdf) ... whoops! how'd that get there 🤔
 
-- ⚡ On my free time: I like sleeping and binge-watching shows
+- ⚡ On my free time: I like watching shows and playing games!
 
 **find me elsewhere on the web** 👇
     <p align="left">
