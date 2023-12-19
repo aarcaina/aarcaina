@@ -1,4 +1,4 @@
-<h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ LoL malder 😤, 🎯 fortnite gamer 🤪</h2>
+<h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ LoL malder 😤, 🎯 ssbu gamer 🤪</h2>
 
 Here are some things to know about me :D
 
