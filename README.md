@@ -7,7 +7,7 @@ Here are some things to know about me :D
     - my portfolio 😭
     - school work 😮‍💨
 
-- 🌱 Currently exploring the intricacies of **Cloud Services, React (Next.js), and TailwindCSS**
+- 🌱 Currently exploring the intricacies of **Cloud Services, mySQL, React (Next.js), and TailwindCSS**
 
 - 💬 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
 
