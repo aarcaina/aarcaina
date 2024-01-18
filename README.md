@@ -130,7 +130,7 @@ Here are some things to know about me :D
         rel="noreferrer"
       >
         <img
-          src="https://camo.githubusercontent.com/028c30c5140bbcb5b67c78a922f275b9a6d335401e03747be76daec134a3125d/68747470733a2f2f636f6d6d6f6e2d6c6973702e6e65742f7374617469632f696d67732f6c6973706c6f676f2e706e67"
+          src="https://cdn-icons-png.flaticon.com/512/919/919848.png"
           alt="common lisp"
           width="40"
           height="40"
