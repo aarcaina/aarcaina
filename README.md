@@ -53,7 +53,16 @@ Here are some things to know about me :D
           height="30"
           width="40"
       /></a>
+      <a href="https://www.hackerrank.com/profile/andre_arcaina" target="blank"
+        ><img
+          align="center"
+          src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"
+          alt="azdrx"
+          height="30"
+          width="40"
+      /></a>
     </p>
+    
 
 **known languages** 🧑‍💻
     <p align="left">
@@ -153,7 +162,21 @@ Here are some things to know about me :D
           height="40"
         />
       </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+          <img 
+               src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png" 
+               alt="next.js" 
+               width="40" 
+               height="40"/>           
+      </a>  
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img 
+               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+               alt="react" 
+               width="40" 
+               height="40"/>           
+      </a>
+         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
           alt="tailwindcss"
@@ -168,13 +191,6 @@ Here are some things to know about me :D
           width="40"
           height="40"
         />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-               alt="react" 
-               width="40" 
-               height="40"/>           
       </a>
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
           <img 
