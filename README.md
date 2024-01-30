@@ -19,212 +19,26 @@ Here are some things to know about me :D
 
 - ⚡ On my free time: I like watching shows and playing games!
 
-**find me elsewhere on the web** 👇
-    <p align="left">
-      <a href="https://linkedin.com/in/andre-arcaina" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="andre-arcaina"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://instagram.com/azdrx" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="azdrx"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.leetcode.com/andrearcaina" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-          alt="azdrx"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://devpost.com/andrearcaina" target="blank"
-        ><img
-          align="center"
-          src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png"
-          alt="azdrx"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.hackerrank.com/profile/andre_arcaina" target="blank"
-        ><img
-          align="center"
-          src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"
-          alt="azdrx"
-          height="30"
-          width="40"
-      /></a>
-    </p>
-    
+**find me elsewhere on the web** 👇 \
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-arcaina/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/azdrx) 
+[![Devpost](https://skillicons.dev/icons?i=devto)](https://devpost.com/andrearcaina)
 
-**known languages** 🧑‍💻
-    <p align="left">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
-               alt="php" 
-               width="40" 
-               height="40"/> 
-      </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.w3schools.com/c/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="c"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.w3schools.com/css/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-        <a
-        href="https://common-lisp.net/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://cdn-icons-png.flaticon.com/512/919/919848.png"
-          alt="common lisp"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-    
-**and technical skills** 🤖
-<div>
-    <p align="left">
-      <a
-        href="https://flask.palletsprojects.com/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-          alt="flask"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/29/Rlogical-Blog-Images-thumbnail.png" 
-               alt="next.js" 
-               width="40" 
-               height="40"/>           
-      </a>  
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-               alt="react" 
-               width="40" 
-               height="40"/>           
-      </a>
-         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-          alt="tailwindcss"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" 
-               alt="nodejs"
-               width="40" 
-               height="40"/> 
-      </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-          <img 
-               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" 
-               alt="git"
-               width="40" 
-               height="40"/> 
-      </a>
-         </a>
-        <a
-        href="https://www.gnu.org/software/bash/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"
-          alt="bash"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-    </p>
-</div>
+**known languages** 🧑‍💻 \
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) 
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+
+**and technical skills** 🤖 \
+[![flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![tailwind](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
