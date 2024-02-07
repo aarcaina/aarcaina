@@ -35,14 +35,17 @@ Here are some things to know about me :D
 
 **and technical skills** 🤖 \
 [![flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![tailwind](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) \
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![vuejs](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![jquery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
 |-----------|-----------|
