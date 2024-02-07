@@ -39,6 +39,7 @@ Here are some things to know about me :D
 [![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![tailwind](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
