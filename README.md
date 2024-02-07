@@ -42,3 +42,6 @@ Here are some things to know about me :D
 [![tailwind](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
+|-----------|-----------|
