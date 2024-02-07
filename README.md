@@ -47,5 +47,5 @@ Here are some things to know about me :D
 [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![jquery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=8&hide_progress=true" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=10&hide_progress=true" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
 |-----------|-----------|
