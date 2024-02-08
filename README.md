@@ -3,11 +3,11 @@
 Here are some things to know about me :D
 
 - 🔭 Indefinitely working on:
-    - a [*crypto app*](https://github.com/andrearcaina/CoinWatch)
+    - a [*crypto app*](https://github.com/andrearcaina/CoinWatch), a [_gallery website_](https://github.com/andrearcaina/WizGallery), and a [_browser game_](https://github.com/andrearcaina/mafia-mayhem)
     - my portfolio 😭
     - school work 😮‍💨
 
-- 🌱 Currently exploring: **Cloud Services, mySQL, Docker, Next.js, and TailwindCSS**
+- 🌱 Currently exploring: **Cloud Services, MySQL, Docker, Next.js**
 
 - 💬 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
 
