@@ -25,7 +25,7 @@ Here are some things to know about me :D
 [![Devpost](https://skillicons.dev/icons?i=devto)](https://devpost.com/andrearcaina)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dtandre331@gmail.com)
 
-**known languages** 🧑‍💻 \
+**tech languages** 🧑‍💻 \
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) 
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
@@ -36,15 +36,15 @@ Here are some things to know about me :D
 
 **and technical skills** 🤖 \
 [![flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![vuejs](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) \
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) 
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=10&hide_progress=true" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&hide_progress=false" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
 |-----------|-----------|
