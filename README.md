@@ -9,7 +9,7 @@ Here are some things to know about me :D
 
 - 🌱 Currently exploring: **Cloud Services, MySQL, Docker, Next.js**
 
-- 💬 Check out my [*personal site*](https://andrearcaina.github.io/) featuring more about me
+- 💬 Check out my [*personal site*](https://andrearcaina.vercel.app/) featuring more about me
 
 - 👨‍💻 check out my [gists](https://gist.github.com/andrearcaina)! (this is kinda cool) 
 
