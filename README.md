@@ -15,7 +15,7 @@ Here are some things to know about me :D
 
 - 📫 Contact me 👉👉👉 dtandre331@gmail.com
 
-- 📄 [**resume**](https://andrearcaina.github.io/resumes/Andre_Arcaina_Resume_Web.pdf) ... whoops! how'd that get there 🤔
+- 📄 [**resume**](https://andrearcaina.vercel.app/resumes/Andre_Arcaina_Resume_Web.pdf) ... whoops! how'd that get there 🤔
 
 - ⚡ On my free time: I like watching shows and playing games!
 
