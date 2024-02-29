@@ -36,10 +36,10 @@ Here are some things to know about me :D
 **and technical skills** 🤖 \
 [![flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![expressjs](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![vuejs](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) 
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
