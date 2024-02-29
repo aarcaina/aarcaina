@@ -11,7 +11,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://skillicons.dev/icons?i=typescript)]([https://www.php.net/](https://www.typescriptlang.org/))[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/) [![C](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/) | [![flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/) [![nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![expressjs](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/) [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![reactjs](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) | [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) |
+| [![Python](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](https://www.python.org) | [![flask](https://skillicons.dev/icons?i=flask,nextjs,expressjs,nodejs,react,tailwind&perline=3)](https://flask.palletsprojects.com/) | [![mysql](https://skillicons.dev/icons?i=mysql,docker,git,bash,linux,vim&perline=3)](https://www.mysql.com/)
 
 **find me elsewhere on the web** 👇 
 
