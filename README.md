@@ -11,7 +11,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![Python](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](https://www.python.org) | [![flask](https://skillicons.dev/icons?i=flask,nextjs,expressjs,nodejs,react,tailwind&perline=3)](https://flask.palletsprojects.com/) | [![mysql](https://skillicons.dev/icons?i=mysql,docker,git,bash,linux,vim&perline=3)](https://www.mysql.com/)
+| [![Python](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![flask](https://skillicons.dev/icons?i=flask,nextjs,expressjs,nodejs,react,tailwind&perline=3)](#) | [![mysql](https://skillicons.dev/icons?i=mysql,docker,git,bash,linux,vim&perline=3)](#)
 
 **find me elsewhere on the web** 👇 
 
