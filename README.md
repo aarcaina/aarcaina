@@ -1,8 +1,7 @@
 <h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ LoL malder 😤, 🎯 SSBU gamer 🤪</h2>
 
-- 🔭 I'm currently working on a [_boggle web app_](https://github.com/andrearcaina/pyggle)
-
-- 🌱 Trying to learn more about: **AWS, Docker, Express.js, Rust, TypeScript**
+- 🔭 I'm currently working on a [_boggle web app_](https://github.com/andrearcaina/pyggle), an [_api wrapper_](https://github.com/andrearcaina/CoinWatch), and deploying my [_gallery app_](https://github.com/andrearcaina/WizGallery)
+- 🌱 Exploring more of: **AWS EC2, Supabase, Docker, Express.js, PostgreSQL, Rust, TypeScript**
 
 - 💬 Check out my [**personal site**](https://andrearcaina.vercel.app/) featuring more about me
 
@@ -11,7 +10,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,nodejs,react,tailwind&perline=3)](#) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,supabase,docker,git,bash&perline=3)](#)
+| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,nodejs,react,tailwind&perline=3)](#) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,bash&perline=3)](#)
 
 **find me elsewhere on the web** 👇 
 
