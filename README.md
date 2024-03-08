@@ -10,7 +10,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,react,tailwind&perline=3)](#) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,neovim,bash,nodejs,bun&perline=4)](/)
+| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](https://github.com/tandpfun/skill-icons) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,react,tailwind&perline=3)](https://github.com/tandpfun/skill-icons) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,neovim,bash,nodejs,bun&perline=4)](https://github.com/tandpfun/skill-icons)
 
 **find me elsewhere on the web** 👇 
 
@@ -26,6 +26,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=andrearcaina&label=Visitors&style=plastic)
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&hide_progress=false" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearcaina&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&hide_progress=false&&langs_count=6" alt="andrearcaina" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=andrearcaina&theme=tokyonight&hide_border=true" alt="andrearcaina" /> |
 |-----------|-----------|
 </details>
