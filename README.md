@@ -10,7 +10,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,react,tailwind&perline=3)](#) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,bash,nodejs,bun&perline=4)](/)
+| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](#) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,react,tailwind&perline=3)](#) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,neovim,bash,nodejs,bun&perline=4)](/)
 
 **find me elsewhere on the web** 👇 
 
