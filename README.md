@@ -1,7 +1,7 @@
 <h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ LoL malder 😤, 🎯 SSBU gamer 🤪</h2>
 
 - 🔭 I'm currently working on a [_boggle web app_](https://github.com/andrearcaina/pyggle), an [_api wrapper_](https://github.com/andrearcaina/CoinWatch), and deploying my [_gallery app_](https://github.com/andrearcaina/WizGallery)
-- 🌱 Exploring more of: **AWS EC2, Supabase, Docker, Express.js, PostgreSQL, Rust, TypeScript**
+- 🌱 Exploring more of: **AWS EC2, Supabase, Docker, Django, PostgreSQL, Rust, TypeScript**
 
 - 💬 Check out my [**personal site**](https://andrearcaina.vercel.app/) featuring more about me
 
