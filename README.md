@@ -1,7 +1,7 @@
 <h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ Val malder 😤, 🎯 SSBU gamer 🤪</h2>
 
-- 🔭 I'm currently working on a [_boggle web app_](https://github.com/andrearcaina/pyggle), a [_SaaS_](https://github.com/andrearcaina/vivid), and deploying my [_gallery app_](https://github.com/andrearcaina/WizGallery)
-- 🌱 Exploring more of: **AWS EC2, Supabase, Docker, Go, Rust, TypeScript**
+- 🔭 I'm currently working on a [_boggle app_](https://github.com/andrearcaina/pyggle), a [_SaaS app_](https://github.com/andrearcaina/vivid), and a [_CLI tool_](https://github.com/andrearcaina/CoinWatch)
+- 🌱 Exploring more of: **AWS EC2, Supabase, Docker, Go**
 
 - 💬 Check out my [**personal site**](https://andrearcaina.vercel.app/) featuring more about me
 
@@ -10,7 +10,7 @@
 **known tech stack** 🧑‍💻
 | languages | frameworks | other
 |-----------|------------|------------|
-| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,c&perline=3)](https://github.com/tandpfun/skill-icons) | [![frameworks](https://skillicons.dev/icons?i=flask,nextjs,expressjs,react,tailwind&perline=3)](https://github.com/tandpfun/skill-icons) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,neovim,bash,nodejs,bun&perline=4)](https://github.com/tandpfun/skill-icons)
+| [![languages](https://skillicons.dev/icons?i=python,javascript,typescript,java,rust,c&perline=3)](https://github.com/tandpfun/skill-icons) | [![frameworks](https://skillicons.dev/icons?i=flask,django,nextjs,expressjs,react,tailwind&perline=3)](https://github.com/tandpfun/skill-icons) | [![other](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,neovim,bash,nodejs,bun&perline=4)](https://github.com/tandpfun/skill-icons)
 
 **find me elsewhere on the web** 👇 
 
