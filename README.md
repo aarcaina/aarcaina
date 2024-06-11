@@ -1,6 +1,6 @@
 <h2>🎮 Avid Wizard101 enjoyer 🧙‍♂️, 🕹️ Val malder 😤, 🎯 SSBU gamer 🤪</h2>
 
-- 🔭 I'm currently working on a [_boggle app_](https://github.com/andrearcaina/pyggle), a [_SaaS app_](https://github.com/andrearcaina/vivid), and a [_CLI tool_](https://github.com/andrearcaina/CoinWatch)
+- 🔭 I'm currently working on a [_boggle app_](https://github.com/andrearcaina/pyggle), a [_mobile app_](https://github.com/andrearcaina/vivid), and a [_programming language_](https://github.com/andrearcaina/bamboo)
 - 🌱 Exploring more of: **AWS EC2, Supabase, Docker, [Go](https://github.com/andrearcaina/blazingly-go)**
 
 - 💬 Check out my [**personal site**](https://andrearcaina.vercel.app/) featuring more about me
