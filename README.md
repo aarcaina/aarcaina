@@ -4,7 +4,7 @@
 
 🌱 Exploring more of: **[C#](https://github.com/andrearcaina/see-sharp) & .NET, [Go](https://github.com/andrearcaina/blazingly-go), AWS, Docker, Kubernetes**
 
-💬 Check out my [**personal site**](https://andrearcaina.vercel.app/) featuring more about me
+💬 Check out my [**personal site**](https://www.andrearcaina.me/) featuring more about me
 
 ⚡ On my free time: I like going to the gym and playing video games!
 
